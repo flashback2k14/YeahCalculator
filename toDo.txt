@@ -5,3 +5,4 @@ to-do:
 -- Weiterberechnung realisieren
   --- Temp fix --> only one Operation at the same time
 -- Verlauf hinzufügen
+- 10.02.2014
