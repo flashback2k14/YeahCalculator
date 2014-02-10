@@ -1,0 +1,103 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Taschenrechner</title>
+  <link type="text/stylesheet" rel="stylesheet" href="../stylesheet/stylesheetMain.css">
+  <script type="text/javascript" src="../javascript/logic.js"></script>
+</head>
+<body>
+  <div>
+    <table>
+      <tr id="trHeadButtons">
+        <td>
+          <input id="helpPage" type="button" value="help" />
+        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr id="trOutput">
+        <td colspan="4">
+          <textarea id="output" cols="60" rows="15" wrap="hard" readonly></textarea>
+        </td>
+      </tr>
+      <tr id="trZeroLine">
+        <td>
+          <input id="wurzel" type="button" value="&radic;" />
+        </td> 
+        <td>
+          <input id="x2" type="button" value="x&sup2;" />
+        </td>
+        <td>
+          <input id="xn" type="button" value="x&#8319;" />
+        </td>
+        <td>
+          <input id="proz" type="button" value="%" />
+        </td>
+      </tr>
+      <tr id="trFirstLine">
+        <td>
+          <input id="num7" type="button" value="7" />
+        </td> 
+        <td>
+          <input id="num8" type="button" value="8" />
+        </td>
+        <td>
+          <input id="num9" type="button" value="9" />
+        </td>
+        <td>
+          <input id="clear" type="button" value="C" />
+        </td>
+      </tr>
+      <tr id="trSecLine">
+        <td>
+          <input id="num4" type="button" value="4" />
+        </td>
+        <td>
+          <input id="num5" type="button" value="5" />
+        </td>
+        <td>
+          <input id="num6" type="button" value="6" />
+        </td>
+        <td>
+          <input id="divi" type="button" value="&divide;" />
+        </td>
+      </tr>
+      <tr id="trThirdLine">
+        <td>
+          <input id="num1" type="button" value="1" />
+        </td>
+        <td>
+          <input id="num2" type="button" value="2" />
+        </td>
+        <td>
+          <input id="num3" type="button" value="3" />
+        </td>
+        <td>
+          <input id="mul" type="button" value="&times;" />
+        </td>
+      </tr>
+      <tr id="trForLine">
+        <td>
+          <input id="kom" type="button" value="," />
+        </td>
+        <td>
+          <input id="num0" type="button" value="0" />
+        </td>
+        <td>
+          <input id="add" type="button" value="+" />
+        </td>
+        <td>
+          <input id="sub" type="button" value="-" />
+        </td>
+      </tr>
+      <tr id="trFifLine">
+        <td colspan="4">
+          <input id="solve" type="button" tooltip="press s" value="=" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</body>
+</html>

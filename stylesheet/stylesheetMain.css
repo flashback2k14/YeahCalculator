@@ -1,0 +1,64 @@
+body {
+  background-color: #000000;
+}
+
+td {
+  text-align:center;
+  margin: 0;
+  padding: 0;
+}
+
+#output {
+  font-size: 20px;
+  text-align: right;
+  background-color: white;
+  height: 150px;
+  width: 203px;
+  margin: 0;
+  padding-right: 10px;
+  border: 0;
+  overflow: auto;
+  resize: auto;
+}
+
+#helpPage {
+ text-align: center;
+ width: 50px;
+ height: 20px;
+ margin-bottom: 5px;
+ padding: 0;
+ border: 0;
+ background-color: #045FB4;
+ color: #FFFFFF;
+}
+
+#num1,#num2,#num3,#num4,#num5,#num6,#num7,#num8,#num9,#num0 {
+ text-align: center;
+ width: 50px;
+ height: 30px;
+ margin: 1px;
+ padding: 0;
+ border: 0;
+ background-color: #045FB4;
+ color: #FFFFFF;
+}
+
+#add,#sub,#mul,#divi,#clear,#kom, #solve, #wurzel, #x2, #xn, #proz {
+ text-align: center;
+ width: 50px;
+ height: 30px;
+ margin: 1px;
+ padding: 0;
+ border: 0;
+ background-color: #424242;
+ color: #FFFFFF;
+}
+
+#solve {
+  text-align: center;
+  width: 215px;
+  height: 30px;
+  margin: 1px;
+  padding: 0;
+  border: 0;
+}

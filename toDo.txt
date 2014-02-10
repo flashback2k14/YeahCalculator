@@ -1,0 +1,7 @@
+to-do:
+
+- 28.01.14
+-- * Taste als Multiplikation fixen
+-- Weiterberechnung realisieren
+  --- Temp fix --> only one Operation at the same time
+-- Verlauf hinzufügen
