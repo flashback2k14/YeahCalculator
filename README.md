@@ -12,17 +12,5 @@ Einbindung im Chrome Browser:
 - Erweiterungen
 - Entwicklermodus aktivieren
 - Entpackte Erweiterungen laden
--- zum Ordner mit den Files navieren und oeffnen druecken
+-- zum Ordner mit den Files navigieren und oeffnen druecken
 - fertig!
-
-Geplante Projekte:
-==================
-
-- YeahCalculator - Google Dart
--- Repo: https://github.com/flashback2k14/YeahCalculatorDart
-- YeahCalculator - Java
--- Repo: https://github.com/flashback2k14/YeahCalculatorJava
-- YeahCalculator - Android
--- Repo: https://github.com/flashback2k14/YeahCalculatorAndroid
-- YeahCalculator - iOS
--- Repo: Wenn noch Zeit ist. :-)
