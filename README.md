@@ -1,7 +1,7 @@
 YeahCalculator - Chrome Packaged App
 ====================================
 
-Yeah, another Calculator program, but for different platforms. ;-)
+Yeah, another Calculator program. ;-)
 
 Einbindung im Chrome Browser:
 -----------------------------
